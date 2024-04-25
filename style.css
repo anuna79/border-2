@@ -1,0 +1,15 @@
+.box{
+    height: 419px;
+    width: 357px;
+    border: 1px solid #B4B4B4
+    ;
+}
+h3{
+    color: #000000; font-size: 14px;
+}
+p{
+    color: #808080; font-size: 14px;
+}
+a{
+    color: #0000EE; font-size: 16px;
+}
